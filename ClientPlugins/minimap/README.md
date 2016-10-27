@@ -1,5 +1,7 @@
 # Minimap
 
+[Forum thread here](http://www.ganggarrison.com/forums/index.php?topic=33732.0)
+
 This plugin draws a minimap in the corner of your screen.
 
 The minimap shows the map background, and also displays the position of the rest of your team, and your objectives (Intelligences, Capture Points, Generators).
