@@ -5,6 +5,12 @@
 This plugin replaces most of the health/ammo HUDs with a more minimalistic, bar-based HUD.
 
 
+## Screenshots
+
+![screen1](https://cloud.githubusercontent.com/assets/6084941/19932866/d9fce148-a111-11e6-94a7-2ce5b543f159.png)
+![screen2](https://cloud.githubusercontent.com/assets/6084941/19932867/da015fde-a111-11e6-8720-8b899ab3cafc.png)
+
+
 ## How it works
 
 The plugin has a main file, a folder for icons, and a folder for HUD-specific scripts.
